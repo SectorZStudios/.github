@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://github.com/TaskeRPG/.github/edit/main/profile/ezgif-5-fc3498ce7f.gif)
+![](https://github.com/TaskeRPG/.github/blob/main/profile/ezgif-5-fc3498ce7f.gif)
 <!--
 
 **Here are some ideas to get you started:**
